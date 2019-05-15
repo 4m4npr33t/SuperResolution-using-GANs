@@ -1,7 +1,7 @@
 # SuperResolution-using-GANs
 pytorch implementation of the paper https://arxiv.org/pdf/1609.04802.pdf
 
-Dataset used was CelebA. which can be obtained from hhttps://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8.
+Dataset used was CelebA. which can be obtained from https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8.
 
 162770 images were used for training and the rest were used for testing purposes.
 
